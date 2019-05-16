@@ -10,3 +10,5 @@ Run Blackjack.py to play. Hit/pass when you see the cards, and continue by press
 #3 Integrating Chatting GUI and Blackjack GUI
 Haven't started yet, but the plan was to put both features in the same GUI. (so one GUI needs to change its GUI library.)
 Eventually, 2+ players can join in the server and they take turns in the role of dealer.
+
+Google Slides used in the presentaiton is here: https://docs.google.com/presentation/d/1VEXnTIdLT2QtdpvnFA5g33qceOLCPcN5mffK5ONBscQ/edit?usp=sharing
